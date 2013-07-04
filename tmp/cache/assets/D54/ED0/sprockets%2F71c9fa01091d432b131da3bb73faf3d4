@@ -1,0 +1,19 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1333594650.2080069:@value{	I"length:EFi²I"digest;
+F"%b3f76bffae9a8ad9c7873cf47eb2c6d9I"source;
+FI"²/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+*/
+.am-wrapper{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.am-wrapper img{
+	position:absolute;
+	outline:none;
+}
+;
+FI"_version;
+F"%cd270774233976be7a482cbff285accc

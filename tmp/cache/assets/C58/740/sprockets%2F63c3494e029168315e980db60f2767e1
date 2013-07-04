@@ -1,0 +1,14 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1333594650.218785:@value{	I"length:EFi}I"digest;
+F"%cff9f91802997f4bca2c103deeb379d7I"source;
+FI"}.am-wrapper{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.am-wrapper img{
+	position:absolute;
+	outline:none;
+}
+;
+FI"_version;
+F"%6f604a1ad2eb3f51317d69503e3ce85c

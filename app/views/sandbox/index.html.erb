@@ -1,0 +1,13 @@
+<h1>Bing API 画像取得</h1>
+
+<%= form_tag( { :action => 'update_pict' }, { :method => :get } ) do %>
+  <%= text_field_tag( :keywd, '', { :size => 40 } ) %>
+  <%= submit_tag '検索' %>
+<% end %>
+
+<%= link_to('update pict', {:action => 'update_pict'},
+  :id => 'update-time-link',
+#  :remote => true,
+  :confirm => '取得しますか？')
+%>
+<div id="pict"></div>
